@@ -5,3 +5,6 @@
 # second time commit
 愿你的国降临
 愿你的旨意行在地上如同行在天上
+# third time commit
+我们日用的饮食
+今日赐给我们
