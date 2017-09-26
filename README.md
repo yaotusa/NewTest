@@ -8,3 +8,6 @@
 # third time commit
 我们日用的饮食
 今日赐给我们
+# forth time commit
+免我们的债
+如同我们免了人的债
