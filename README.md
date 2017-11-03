@@ -10,4 +10,5 @@
 今日赐给我们
 # forth time commit
 免我们的债aaa
+免我们
 如同我们免了人的债
